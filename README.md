@@ -1,7 +1,9 @@
 # freecodecamp-my-articles-source-code
-This repository holds the code I use in my freecodecamo news articles.
 
-Besides the code, the images I create for my articles are also where.
-You can use them as you wish.
+Here you can find the code I use in my freecodecamp news articles. 
 
-You can find the site I use to create the images [here](https://ray.so/)
+Additionally, the images I create for my articles can also be found there. 
+
+Feel free to use them. 
+
+[Here](https://ray.so/) is the site I use to create the images.
