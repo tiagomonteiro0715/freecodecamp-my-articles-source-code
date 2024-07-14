@@ -2,7 +2,7 @@
 
 Here you can find the code I use in my freecodecamp news articles. 
 
-Here is one I had in another repository:
+Here is one I have in another repository:
 
 [Signal Processing and Systems in Programming – Guide for Beginners](https://github.com/tiagomonteiro0715/Signal-Processing-and-Systems-in-Programming-Guide-for-Beginners)
 
