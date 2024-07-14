@@ -4,7 +4,7 @@ Here you can find the code I use in my freecodecamp news articles.
 
 Here is one I had in another repository:
 
-[Signal-Processing-and-Systems-in-Programming-Guide-for-Beginners](https://github.com/tiagomonteiro0715/Signal-Processing-and-Systems-in-Programming-Guide-for-Beginners)
+[Signal Processing and Systems in Programming – Guide for Beginners](https://github.com/tiagomonteiro0715/Signal-Processing-and-Systems-in-Programming-Guide-for-Beginners)
 
 Additionally, the images I create for my articles can also be found there. 
 
