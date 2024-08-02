@@ -3,21 +3,17 @@ import matplotlib.pyplot as plt
 import control as ctrl
 
 # Step 2: Define a new rocket transfer function with poles closer to the imaginary axis
-num = [10]  # Numerator
-den = [2, 2, 1]  # Denominator representing a second-order system
+num = [10] 
+den = [2, 2, 1] 
 G = ctrl.TransferFunction(num, den)
 
 # Step 3: Design a PID controller with new parameters
 Kp = 5
 Ki = 2
 Kd = 1
-
-# Step 4: Applying the PID controller to the rocket transfer function
-
-# Transfer function of the PID controller: C(s) = Kd*s^2 + Kp*s + Ki
 C = ctrl.TransferFunction([Kd, Kp, Ki], [1, 0])
 
-# Closed-loop transfer function
+# Step 4: Applying the PID controller to the rocket transfer function
 CL = ctrl.feedback(C * G, 1)
 
 # Step 5: Plot Root Locus for Closed-Loop System
