@@ -1,6 +1,6 @@
 # FreeCodeCamp - My articles source code
 
-[My FreeCodeCamp page](https://www.freecodecamp.org/news/author/tiago/)
+[My FreeCodeCamp page](https://www.freecodecamp.org/news/author/tiagomonteiro)
 
 Here you can find the code I use in my freecodecamp news articles. 
 
