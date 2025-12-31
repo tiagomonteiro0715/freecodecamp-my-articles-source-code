@@ -10,6 +10,6 @@ And here is the github repository to the python and latex code of my book: [The 
 
 Additionally, the code images I create for my articles can also be found there. 
 
-Feel free to use them!
+Feel free to use them
 
 [Here](https://ray.so/) is the site I use to create the code images.
