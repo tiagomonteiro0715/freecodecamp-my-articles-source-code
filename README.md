@@ -6,7 +6,7 @@ Here you can find the code I use in my freecodecamp news articles.
 
 Here is one I have in another repository: [Signal Processing and Systems in Programming – Guide for Beginners](https://github.com/tiagomonteiro0715/Signal-Processing-and-Systems-in-Programming-Guide-for-Beginners)
 
-And here is the github repository to the python and latex code of my book: [The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations/tree/main)
+And here is the github repository to the python and latex code of my book: [The Math Behind Artificial Intelligence A Guide to AI Foundations](https://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations/tree/main)
 
 Additionally, the code images I create for my articles can also be found there. 
 
